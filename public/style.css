@@ -1,0 +1,30 @@
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #5F5858
+	
+}
+
+h2{
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+.bouton{
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	border-radius:5px;
+	
+}
+
+#connexion{
+	color: #FFFFFF;
+	width:200px;
+	height:50px;
+	border:1px;
+	
+}
